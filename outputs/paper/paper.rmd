@@ -1,5 +1,5 @@
 ---
-title: "Canadian Stress"
+title: "Canadian Stress^[Data and code is available at https://github.com/Mikmok14/Canadian-Stress-Levels-and-Work-Time-Use.git]"
 author: "Chyna Hui and Marco Chau"
 date: "March 8 2022"
 output: 
@@ -56,7 +56,8 @@ In section \@ref(data) we discuss the source of the data used in this paper, the
 # Data
 
 ## Key Features
-The Canadian General Social Survey's (GSS) key purpose is to gather data to monitor changes of living conditions in Canada and to inform social policy/legislature.^[@gssmeta] The 2015 GSS focuses on time-use data to find how Canadians are spending both their personal and professional time. A few key time-use metrics gathered are: time spent sleeping, time spent on paid work, time spent looking for paid work, time spent commuting to work and school, time spent on household chores, time spent on childcare, time spent socializing, time spent on active and passive leisure, etc. The survey data has 17,390 respondents and counts 848 variables. Not all variables are related to time-use as the survey is also interested in other metrics as well such as the respondent's sex, income, marital status, number of children, and other variables that are relevant to social policy.  
+The Canadian General Social Survey's (GSS) key purpose is to gather data to monitor changes of living conditions in Canada and to inform social policy/legislature.^[@gssmeta] The 2015 GSS focuses on time-use data to find how Canadians are spending both their personal and professional time. A few key time-use metrics gathered are: time spent sleeping, time spent on paid work, time spent looking for paid work, time spent commuting to work and school, time spent on household chores, time spent on childcare, time spent socializing, time spent on active and passive leisure, etc. The survey data has 17,390 respondents and counts 848 variables. Not all variables are related to time-use as the survey is also interested in other metrics as well such as the respondent's sex, income, marital status, number of children, and other variables that are relevant to social policy. Data was prepared, cleaned and processed using R^[@R]  
+  
 
 ## Source and Methodology
 All the data from this paper including the inputs used to create models are extracted from the 2015 Canadian General Social Survey on Time Use. The survey was administered to a population sample all 15 years of age and older throughout the country excluding the provinces of Yukon, the Northwest Territories, and Nunavut. The remaining ten provinces (Ontario, Quebec, British Columbia, Alberta, Manitoba, New Brunswick, Newfoundland and Labroador, Nova Scotia, Prince Edward Island [PEI], and Saskatchewan) were divided into strata based on geography and Census Metropolitan Areas (CMAs). A total of 27 strata were created from the 10 provinces and their CMAs. 
