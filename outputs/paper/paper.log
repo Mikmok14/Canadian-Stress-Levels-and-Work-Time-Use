@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.13)  20 MAR 2022 22:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.13)  21 MAR 2022 00:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -564,12 +564,8 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 [1
 
-{c:/Users/chaum/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Warning: Reference `model' on page 2 undefined on input line 137.
-
-[2] [3]
-<paper_files/figure-latex/nostressfig-1.pdf, id=103, 469.755pt x 325.215pt>
+{c:/Users/chaum/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+<paper_files/figure-latex/nostressfig-1.pdf, id=119, 469.755pt x 325.215pt>
 File: paper_files/figure-latex/nostressfig-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/nostressfig-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/nostressfig-1.pdf  used on input line 207.
@@ -579,7 +575,7 @@ Package pdftex.def Info: paper_files/figure-latex/nostressfig-1.pdf  used on inp
                                                   \__shipout_drop_firstpage_...
 l.210 
       ]
-<paper_files/figure-latex/extremestressfig-1.pdf, id=113, 469.755pt x 325.215pt>
+<paper_files/figure-latex/extremestressfig-1.pdf, id=129, 469.755pt x 325.215pt>
 File: paper_files/figure-latex/extremestressfig-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/extremestressfig-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/extremestressfig-1.pdf  used on input line 215.
@@ -589,7 +585,7 @@ Package pdftex.def Info: paper_files/figure-latex/extremestressfig-1.pdf  used o
                                                   \__shipout_drop_firstpage_...
 l.218 
        <./paper_files/figure-latex/nostressfig-1.pdf>]
-<paper_files/figure-latex/sourcestressfig-1.pdf, id=126, 469.755pt x 325.215pt>
+<paper_files/figure-latex/sourcestressfig-1.pdf, id=142, 469.755pt x 325.215pt>
 File: paper_files/figure-latex/sourcestressfig-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/sourcestressfig-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/sourcestressfig-1.pdf  used on input line 245.
@@ -623,7 +619,7 @@ l.334
                                                   \__shipout_drop_firstpage_...
 l.334 
       ]
-<paper_files/figure-latex/trafficfig-1.pdf, id=166, 469.755pt x 325.215pt>
+<paper_files/figure-latex/trafficfig-1.pdf, id=182, 469.755pt x 325.215pt>
 File: paper_files/figure-latex/trafficfig-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/trafficfig-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/trafficfig-1.pdf  used on input line 337.
@@ -637,7 +633,7 @@ l.342
                                                   \__shipout_drop_firstpage_...
 l.342 
        <./paper_files/figure-latex/trafficfig-1.pdf>]
-<paper_files/figure-latex/transporttimefig-1.pdf, id=183, 469.755pt x 325.215pt>
+<paper_files/figure-latex/transporttimefig-1.pdf, id=199, 469.755pt x 325.215pt>
 File: paper_files/figure-latex/transporttimefig-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/transporttimefig-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/transporttimefig-1.pdf  used on input line 345.
@@ -647,12 +643,12 @@ Package pdftex.def Info: paper_files/figure-latex/transporttimefig-1.pdf  used o
                                                   \__shipout_drop_firstpage_...
 l.350 
        <./paper_files/figure-latex/transporttimefig-1.pdf>]
-<paper_files/figure-latex/workhoursfig-1.pdf, id=196, 469.755pt x 325.215pt>
+<paper_files/figure-latex/workhoursfig-1.pdf, id=212, 469.755pt x 325.215pt>
 File: paper_files/figure-latex/workhoursfig-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/workhoursfig-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/workhoursfig-1.pdf  used on input line 353.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
-<paper_files/figure-latex/daysworkedfig-1.pdf, id=198, 469.755pt x 325.215pt>
+<paper_files/figure-latex/daysworkedfig-1.pdf, id=214, 469.755pt x 325.215pt>
 File: paper_files/figure-latex/daysworkedfig-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/daysworkedfig-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/daysworkedfig-1.pdf  used on input line 361.
@@ -665,41 +661,95 @@ l.364
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.374 
-       <./paper_files/figure-latex/daysworkedfig-1.pdf>] [13]
-Underfull \hbox (badness 1824) in paragraph at lines 398--400
+       <./paper_files/figure-latex/daysworkedfig-1.pdf>]
+
+LaTeX Warning: Reference `fig:workhourfig' on page 13 undefined on input line 380.
+
+[13]
+
+LaTeX Warning: Reference `fig:workhourfig' on page 14 undefined on input line 382.
+
+[14]
+<../survey/survey 0.png, id=277, 597.31155pt x 845.19765pt>
+File: ../survey/survey 0.png Graphic file (type png)
+<use ../survey/survey 0.png>
+Package pdftex.def Info: ../survey/survey 0.png  used on input line 396.
+(pdftex.def)             Requested size: 459.667pt x 650.4302pt.
+<../survey/survey 1.png, id=278, 614.295pt x 794.97pt>
+File: ../survey/survey 1.png Graphic file (type png)
+<use ../survey/survey 1.png>
+Package pdftex.def Info: ../survey/survey 1.png  used on input line 397.
+(pdftex.def)             Requested size: 469.75604pt x 607.9196pt.
+<../survey/survey 2.png, id=279, 614.295pt x 794.97pt>
+File: ../survey/survey 2.png Graphic file (type png)
+<use ../survey/survey 2.png>
+Package pdftex.def Info: ../survey/survey 2.png  used on input line 398.
+(pdftex.def)             Requested size: 469.75604pt x 607.9196pt.
+<../survey/survey 3.png, id=280, 614.295pt x 794.97pt>
+File: ../survey/survey 3.png Graphic file (type png)
+<use ../survey/survey 3.png>
+Package pdftex.def Info: ../survey/survey 3.png  used on input line 399.
+(pdftex.def)             Requested size: 469.75604pt x 607.9196pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--400
+[][]
+ []
+
+[15] [16 <../survey/survey 0.png>] [17 <../survey/survey 1.png>]
+<../survey/survey 4.png, id=297, 614.295pt x 794.97pt>
+File: ../survey/survey 4.png Graphic file (type png)
+<use ../survey/survey 4.png>
+Package pdftex.def Info: ../survey/survey 4.png  used on input line 403.
+(pdftex.def)             Requested size: 469.75604pt x 607.9196pt.
+[18 <../survey/survey 2.png>] [19 <../survey/survey 3.png>]
+<../survey/survey 5.png, id=309, 614.295pt x 794.97pt>
+File: ../survey/survey 5.png Graphic file (type png)
+<use ../survey/survey 5.png>
+Package pdftex.def Info: ../survey/survey 5.png  used on input line 409.
+(pdftex.def)             Requested size: 469.75604pt x 607.9196pt.
+[20pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.412 
+       <../survey/survey 4.png>] [21pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.421 
+       <../survey/survey 5.png>]
+Underfull \hbox (badness 1824) in paragraph at lines 437--439
 \T1/lmr/m/n/10 Not Equal: Travel Time and the Ef-fects of Con-ges-tion on Com-mute Sat-is-fac-tion in Cana-
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 398--400
+Underfull \hbox (badness 1253) in paragraph at lines 437--439
 \T1/lmr/m/n/10 dian Cities.'' \T1/lmr/m/it/10 Trans-porta-tion \T1/lmr/m/n/10 45 (5): 1249--68. []$http : / / myaccess . library . utoronto . ca / login ? qurl =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 398--400
+Underfull \hbox (badness 10000) in paragraph at lines 437--439
 \T1/lmr/m/n/10 https % 3A % 2F % 2Fwww . proquest . com % 2Fscholarly -[] journals % 2Fall -[] minutes -[] are -[] not -[] equal -[] travel -[] time -[]
  []
 
-[14] (./paper.aux)
+[22] (./paper.aux)
 
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `paper.out' has not changed.
-(rerunfilecheck)             Checksum: F8A10E9017C70F0C46F6949B21FA34C3;1607.
+(rerunfilecheck)             Checksum: 441A756C4BAEC0CFC90185172E27F03C;1989.
  ) 
 Here is how much of TeX's memory you used:
- 12757 strings out of 480236
- 202493 string characters out of 5894214
- 498631 words of memory out of 5000000
- 30388 multiletter control sequences out of 15000+600000
+ 12828 strings out of 480236
+ 203882 string characters out of 5894214
+ 498757 words of memory out of 5000000
+ 30430 multiletter control sequences out of 15000+600000
  533878 words of font info for 73 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,10n,63p,3738b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,10n,63p,3738b,352s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Users/chaum/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/Users/chaum/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/Users/chaum/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/Users/chaum/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx9.pfb><c:/Users/chaum/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/Users/chaum/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/Users/chaum/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/Users/chaum/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr6.pfb><c:/Users/chaum/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/Users/chaum/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/Users/chaum/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/Users/chaum/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on paper.pdf (14 pages, 355763 bytes).
+Output written on paper.pdf (22 pages, 663142 bytes).
 PDF statistics:
- 337 PDF objects out of 1000 (max. 8388607)
- 282 compressed objects within 3 object streams
- 72 named destinations out of 1000 (max. 500000)
- 132 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 422 PDF objects out of 1000 (max. 8388607)
+ 346 compressed objects within 4 object streams
+ 93 named destinations out of 1000 (max. 500000)
+ 186 words of extra memory for PDF output out of 10000 (max. 10000000)
 
