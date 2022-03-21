@@ -1,5 +1,5 @@
 ---
-title: "Canadian Stress^[Data and code is available at https://github.com/Mikmok14/Canadian-Stress-Levels-and-Work-Time-Use.git]"
+title: "Canadian Stress Levels and Work-Activity ^[Data and code is available at https://github.com/Mikmok14/Canadian-Stress-Levels-and-Work-Time-Use.git]"
 author: "Chyna Hui and Marco Chau"
 date: "March 8 2022"
 output: 
