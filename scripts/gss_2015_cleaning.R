@@ -10,6 +10,7 @@ library("dplyr")
 
 
 #Set working directory
+setwd("../")
 #Load in raw data
 gss_2015_raw <-
   readr::read_csv("inputs/data/gss_raw.csv")
