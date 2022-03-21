@@ -5,6 +5,8 @@ This repo is organized as follows.
 The "inputs" folder includes the raw dataset used to create the figures and tables in this paper.
 Due to the large size of the CSV file, it has been compressed and split into two using WINRAR before uploading.
 The CSV must be extracted and stitched back together before it can be reproduced in the R-script.
+ENSURE that the gss_raw.csv is not in a subfolder after it has been extracted from the .rar files.
+the gss_raw.csv MUST be located in the data folder for the script to work. 
 
 The "scripts" folder includes an R-script file that cleans and organizes the raw data found in the data folder.
 
